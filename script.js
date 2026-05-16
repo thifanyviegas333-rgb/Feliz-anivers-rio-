@@ -1,0 +1,3 @@
+alert("Meu príncipe, o teu aniversário pode até ja ter passado, mas esse dia de hoje com certeza vai ser o melhor de todos! 
+      Meu bem, o melhor amigo do mundo, o melhor "quase algo" do mundo, o melhor filho do mundo, o melhor irmão do mundo, resumindo, o melhor homem do mundo, é muito raro existir alguém tão esforçado, inteligente, forte, carinhoso, fofo, respeitoso, educado e lindo igual você, é tanta qualidade que mal dá pra listar!
+      Meu amor, eu te amo tanto que nao consigo descrever, mas se eu tentasse tranformar esse amor em palavras, com certeza seria: "mais que o infinito". Enfim, já enrolei demais, parabéns meu gatinho pelo seu dia, espero que eu consiga deixar esse dia muuuito especial💗");
